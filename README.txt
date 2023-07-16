@@ -4,7 +4,7 @@ Files
 
 Task1a-Task5b.cpp contain different tasks for my studying project
 
-проект 14 Агієнко.docx - is my course work file, describing everything I did in the project
+project 14.docx - is my course work file, describing everything I did in the project
 
 Description of the project
 
